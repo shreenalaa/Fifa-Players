@@ -1,0 +1,41 @@
+The datasets provided include the players data for the Career Mode from FIFA 22. It only includes male football players with known wage.
+
+The goal is to predict the wage of the player based on his attributes.
+
+
+
+data schema for project :
+
+
+# wage_eur : Wage of the player .
+# age : Age of the player
+# height_cm : Height of the player .
+# weight_kg :Weight of the player
+# nationality_name: Nationality of the player 
+  -England 9%
+  -Germany 6%
+ -Other (16245) 85%
+# overall :Overall score of the player
+# potential :Potential of the player 
+# attacking_crossing : Attacking Crossing of the player
+# ttacking_finishing :Attacking Finishing of the player
+# attacking_heading_accuracy :Attacking Heading of the player
+# attacking_short_passing :Attacking Short Passing of the player 
+# attacking_volleys : Attacking Volleys of the player
+# skill_dribbling : Skill Dribbling of the player 
+# skill_curve : Skill Curve of the player
+# skill_fk_accuracy : Skill Accuract of the player
+# skill_long_passing : Skill Long Passing of the player
+# skill_ball_control : Skill Ball Control of the player
+# movement_acceleration : Movement Acceleration of the player
+# movement_sprint_speed : Movement Spring of the player
+# movement_agility : Movement Agility of the player
+# movement_reactions : Movement Reactions of the player
+# movement_balance : Movement Balance of the player
+# defending_standing_tackle : Defending Standing Tackle of the player
+# defending_sliding_tackle : Defending Sliding Tackle of the player
+# goalkeeping_diving : Goalkeeping Diving of the player
+# goalkeeping_handling : Goalkeeping Handling of the player
+# goalkeeping_kicking : Goalkeeping Kicking of the player
+# goalkeeping_positioning : Goalkeeping positioning of the player
+# goalkeeping_reflexes : Goalkeeping Reflex of the player
